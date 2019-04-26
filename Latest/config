@@ -31,7 +31,7 @@
         2
       ],
       "pattern": "80 BF ? ? ? ? ? 0F 84 ? ? ? ? 32 DB"
-    },
+    }, 
     {
       "name": "dwClientState_Map",
       "extra": 0,
